@@ -20,7 +20,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `rm -rf updateMrfbV13`
-- `git clone https://github.com/Reza-XD/updateMrfbV13`
+- `git clone https://github.com/REZA-XYZ/updateMrfbV13`
 - `cd updateMrfbV13`
 - `python VnleFb.py`
      
