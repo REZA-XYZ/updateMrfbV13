@@ -10,7 +10,7 @@
 
 ## <b>installation</b>
 
-🔰 *CRACK FACEBOOK [ REZA XD ]*
+🔰 *CRACK FACEBOOK [ REZA XYZ ]*
 
 
 - `pkg update`
